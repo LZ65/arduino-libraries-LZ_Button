@@ -1,0 +1,16 @@
+
+BTN_ms		LITERAL1
+btnClosed	LITERAL1
+btnOpened	LITERAL1
+btnReleased	LITERAL1
+btnPressed	LITERAL1
+btnUndefined	LITERAL1
+
+ButtonState	KEYWORD1
+Button		KEYWORD1
+
+Init		KEYWORD2
+GetState	KEYWORD2
+Update		KEYWORD2
+IsStateChanged	KEYWORD2
+GetNewState	KEYWORD2
