@@ -1,7 +1,7 @@
 #include <Button.h>
 
-Button btn1(11);
-Button btn2(12);
+Button btn1(11);  // button 1 on pin 11
+Button btn2(12);  // button 2 on pin 12
 int led1 = A0;
 int led2 = A1;
 
