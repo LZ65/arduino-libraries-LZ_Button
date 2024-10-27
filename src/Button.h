@@ -9,7 +9,6 @@ typedef enum { btnPressed=1, btnClosed, btnOpened, btnReleased, btnUndefined } B
 class Button
 {
 public:
-//  Button ();
   Button (uint8_t pin=11);
 private:
 /*
